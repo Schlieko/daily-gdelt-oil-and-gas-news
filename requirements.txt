@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+beautifulsoup4
+gdelt
+openai
+tqdm
+langid
+scikit-learn
+networkx
+python-dotenv
