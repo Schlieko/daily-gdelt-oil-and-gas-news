@@ -2,7 +2,7 @@
 
 An automated, cloud-native intelligence pipeline that pulls daily global event data from GDELT—**scanning over 150,000+ English news headlines from around the world every day**—processes it using natural language processing (NLP), and generates an AI-curated morning briefing. 
 
-This desk is configured to track **Oil & Gas and specifically exploration and production**. However, the architecture is completely topic-agnostic and can be pivoted to track *any* global industry or event in minutes without altering a single line of code.
+Out of the box, this desk is configured to track **Artificial Intelligence and its geopolitical impact**. However, the architecture is completely topic-agnostic and can be pivoted to track *any* global industry or event in minutes without altering a single line of code.
 
 ## ⚙️ Architecture
 This project runs entirely in the cloud with zero manual intervention:
