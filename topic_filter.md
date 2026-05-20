@@ -14,6 +14,7 @@ CRITERIA FOR "FALSE":
 - General automotive or transportation news (electric vehicles, car manufacturing, standard shipping).
 - Pure renewable energy stories (wind, solar) unless they specifically discuss an oil major's transition strategy.
 - Geopolitical news that merely uses the word "fuel" or "gas" metaphorically or in relation to chemical weapons.
+- Celebrity gossip, reality TV, pop culture, and fashion brands (e.g., Kim Kardashian, SKIMS) unless specifically discussing an AI technology implementation.
 
 You MUST return strictly valid JSON in this exact format:
 {
