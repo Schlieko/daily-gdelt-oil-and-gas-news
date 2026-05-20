@@ -26,7 +26,7 @@ jobs:
       - name: 💾 Download Database from Google Cloud
         run: |
           mkdir -p gdelt_Data
-          gcloud storage cp gs://gdelt-intelligence-bucket/gdelt_brain.db ./gdelt_Data/gdelt_brain.db
+          gcloud storage cp gs://gdelt-intelligence-bucket/gdelt_brain.db ./gdelt_Data/oil_gas_brain.db
 
       - name: 🐳 Build and Run Docker Container
         run: |
